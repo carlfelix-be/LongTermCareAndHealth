@@ -12,7 +12,9 @@ This is the online appendix to the bachelor thesis:
   
 The Appendix contains: Stata do-file documentation
 
-consiting out of    MainMethode.do  : dofile to initiate run
+consiting out of:    
+                    
+                    MainMethode.do  : dofile to initiate run
 
                     Workspace.zip   : folder containing data and subsequent do-files
                     
