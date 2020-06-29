@@ -44,10 +44,14 @@ do W1-Methode.do
 do W2-Methode.do
 do W3-Methode.do
 do W4-Methode.do
-*/
+
+To run drag sharew5_rel7-0-0_ALL_datasets_stata - sharew7_rel7-0-0_ALL_datasets_stata
+to "/workspace/dta/in/"
+
 do "do/W5-Methode.do"
 do "do/W6-Methode.do"
 do "do/W7-Methode.do"
+*/
 
 //Main Analysis A : Panel regression - micro level
 //
